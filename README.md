@@ -24,5 +24,5 @@
 
 <div align="center">
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leo5123935)](https://solved.ac/leo5123935) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaewoo1002)](https://github.com/chaewoo1002/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leo5123935)](https://solved.ac/leo5123935) &nbsp; &nbsp; &nbsp; &nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaewoo1002)](https://github.com/chaewoo1002/github-readme-stats)
 </div>
