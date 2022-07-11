@@ -24,7 +24,8 @@
 
 <div align="center">
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leo5123935)](https://solved.ac/leo5123935)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leo5123935)](https://solved.ac/leo5123935) &nbsp;&nbsp; <img src="http://mazandi.herokuapp.com/api?handle=leo5123935&theme=warm"/>
+
 
 <br>
 
