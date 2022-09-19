@@ -26,11 +26,10 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leo5123935)](https://solved.ac/leo5123935) &nbsp;&nbsp; <img src="http://mazandi.herokuapp.com/api?handle=leo5123935&theme=warm"/>
 
-
-<br>
-
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaewoo1002)](https://github.com/chaewoo1002/github-readme-stats)
 </div>
+-->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 
