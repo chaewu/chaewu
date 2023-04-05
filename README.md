@@ -31,3 +31,7 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 -->
 <h3>안녕하세요👋 이채우입니다!</h3>
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaewu&layout=compact&theme=tokyonight)
